@@ -1,0 +1,35 @@
+body{
+    background-color: #ffdb24;
+    margin: 0;
+}
+
+#Filtros{
+    background-color: black;
+    color: white;
+
+    display: grid;
+    justify-items: center;   
+    justify-content: center; 
+
+    width: max(90%, 500px);
+    margin: 30px auto;       
+    padding: 20px;
+    gap: 15px;
+}
+
+#Marca,
+#Modelo,
+#Anio,
+#Enviar{
+    text-align: center;
+    background-color: inherit;
+    color: inherit;
+    border: 1px solid white;
+    width: max(80%, 400px);
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+#Resultados{
+    visibility: hidden;
+}
