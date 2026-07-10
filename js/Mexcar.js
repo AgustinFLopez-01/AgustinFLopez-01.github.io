@@ -54,6 +54,15 @@ const inventario = [
         ]
     },
     {
+        marca: "Toyota",
+        modelo: "Corolla",
+        anio: 2022,
+        color: "Azul",
+        lugares: [
+            "C4"
+        ]
+    },
+    {
         marca: "Kia",
         modelo: "Seltos",
         anio: 2026,
