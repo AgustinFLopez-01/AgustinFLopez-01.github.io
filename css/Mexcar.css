@@ -31,6 +31,9 @@ body{
 }
 
 #Resultados{
+    justify-items: center;
+    justify-content: center;
+    justify-self: center;
     visibility: hidden;
     font-size: 1.1rem;
     list-style: none;
