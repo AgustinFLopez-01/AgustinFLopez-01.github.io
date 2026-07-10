@@ -37,14 +37,14 @@ body{
     background-color: black;
     color: white;
     border: 0px;
-    width: min(65%, 400px);
+    width: min(90%, 400px);
     padding: 10px;
 }
 #Resultados li button{
     background-color: inherit;
     color: inherit;
     border: inherit;
-    width: min(65%, 400px);
+    width: min(80%, 400px);
     padding: inherit;
 
 }
