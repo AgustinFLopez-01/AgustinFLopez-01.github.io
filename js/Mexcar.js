@@ -117,7 +117,7 @@ function buscarAutos() {
     resultados.innerHTML = "";
 
     resultados.style.visibility = "visible";
-
+    resultados.style.display ="grid";
     inventario.forEach(auto => {
 
         if (
