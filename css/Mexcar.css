@@ -28,6 +28,7 @@ body{
     width: min(80%, 400px);
     font-size: 1.2rem;
     padding: 10px;
+    min-width: 200px;
 }
 
 #Resultados{
