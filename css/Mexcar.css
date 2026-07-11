@@ -48,7 +48,7 @@ body{
     background-color: inherit;
     color: inherit;
     border: inherit;
-    width: max(80%, 400px);
+    width: min(80%, 400px);
     padding: inherit;
 
 }
