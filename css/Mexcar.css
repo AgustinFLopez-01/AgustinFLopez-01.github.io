@@ -25,7 +25,7 @@ body{
     background-color: inherit;
     color: inherit;
     border: 1px solid white;
-    width: min(80%, 400px);
+    width: max(80%, 400px);
     font-size: 1.2rem;
     padding: 10px;
 }
